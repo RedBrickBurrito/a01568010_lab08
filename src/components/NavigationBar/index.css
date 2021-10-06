@@ -1,0 +1,19 @@
+
+.navbar{
+  background-color: #465362 !important;
+}
+a.product-list-link:link {
+    color: #c2eabd !important;
+    text-decoration: none !important;
+  }
+  
+  a.product-list-link:visited {
+    color: #c2eabd !important;
+    text-decoration: none !important;
+  }
+  
+  a.product-list-link:hover {
+    color: #fafafa !important;
+    text-decoration: none !important;
+  }
+  
